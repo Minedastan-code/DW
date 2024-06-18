@@ -2,7 +2,7 @@
 
 Dynamic Widget components for Unity
 
-Dynamic Widgets are the interactive widgets for the dental driil tool to an implant target guidance. They are co-designed with 2 dental experts and 3 mixed reality experts. 
+Dynamic Widgets are the interactive widgets for the dental driil tool to an implant target guidance.
 
 Dynamic Widgets are published in ISMAR 2024 journal paper track "Co-designing dynamic mixed reality drill positioning widgets: A collaborative approach with dentists in a realistic setup".
 
