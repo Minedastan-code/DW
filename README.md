@@ -4,13 +4,12 @@ Dynamic Widget components for Unity
 
 Dynamic Widgets are the interactive widgets for the dental driil tool to an implant target guidance.
 
-Dynamic Widgets are published in ISMAR 2024 journal paper track "Co-designing dynamic mixed reality drill positioning widgets: A collaborative approach with dentists in a realistic setup".
 
  ## Citation Requirements
 
 If this package is used in a scientific research, authors must cite the following papers:
 
-- [Dastan, M., Fiorentino, M., Walter, E. D., Diegritz, C., Uva, A. E., Eck, U., & Navab, N. (2024). Co-designing dynamic mixed reality drill positioning widgets: A collaborative approach with dentists in a realistic setup. IEEE Transactions on Visualization and Computer Graphics.] (in publishing)
+- [] (a Journal paper under revision)
 
 
 - [Dastan, M., Uva, A. E., & Fiorentino, M. (2022, October). Gestalt driven augmented collimator widget for precise 5 dof dental drill tool positioning in 3d space. In 2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 187-195). IEEE.](https://ieeexplore.ieee.org/document/9994944)
